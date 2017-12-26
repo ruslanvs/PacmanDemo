@@ -1,0 +1,1 @@
+Optional Javascript assignment at Coding Dojo.
