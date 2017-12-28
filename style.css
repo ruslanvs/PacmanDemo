@@ -29,6 +29,14 @@ div.pacman {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    transform: rotate(180deg);
+}
+div.cherry {
+    background-image: url("cherry.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+
 }
 #score {
     color: white;
